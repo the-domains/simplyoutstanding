@@ -1,0 +1,28 @@
+name: simplyoutstanding
+favicon: null
+layout_spectrum: 0.656379412394017
+typography_spectrum: 0.9329448940698057
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.7521800932008773
+  lightness: 0.6031175700481981
+  saturation: 0.7225006602238864
+  rhythmicContrast: 0.19875405495986342
+purpose: []
